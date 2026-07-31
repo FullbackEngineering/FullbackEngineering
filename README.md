@@ -334,8 +334,7 @@ I am especially interested in projects that solve real problems and have the pot
 * **GitHub:** [FullbackEngineering](https://github.com/FullbackEngineering)
 * **Theraphe:** [theraphe.co](https://theraphe.co)
 * **VibeFlow Games:** [vibeflow.games](https://vibeflow.games)
-* **LinkedIn:** `ADD_YOUR_LINKEDIN_URL`
-* **Email:** `ADD_YOUR_EMAIL_ADDRESS`
+
 
 ---
 
